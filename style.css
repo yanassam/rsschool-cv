@@ -133,7 +133,9 @@ ul {
 .myfoto {
     padding-left: 40px;
 }
-
+.myfoto img {
+    border-radius: 50%;
+}
 .education {
     font-family: 'Inter';
     font-style: normal;
